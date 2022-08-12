@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leaf Counter", "Leaf Counter\Leaf Counter.vcxproj", "{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}.Debug|x64.ActiveCfg = Debug|x64
+		{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}.Debug|x64.Build.0 = Debug|x64
+		{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}.Debug|x86.ActiveCfg = Debug|Win32
+		{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}.Debug|x86.Build.0 = Debug|Win32
+		{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}.Release|x64.ActiveCfg = Release|x64
+		{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}.Release|x64.Build.0 = Release|x64
+		{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}.Release|x86.ActiveCfg = Release|Win32
+		{85A6C5B5-C61C-4AD1-A73E-7D4369DF1665}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC0EBD0F-24A7-475F-B67C-388A64E09091}
+	EndGlobalSection
+EndGlobal
